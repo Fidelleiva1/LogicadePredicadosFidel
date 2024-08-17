@@ -1,0 +1,14 @@
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\bin\Debug\net8.0\LogicadePredicadosFidel.exe
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\bin\Debug\net8.0\LogicadePredicadosFidel.deps.json
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\bin\Debug\net8.0\LogicadePredicadosFidel.runtimeconfig.json
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\bin\Debug\net8.0\LogicadePredicadosFidel.dll
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\bin\Debug\net8.0\LogicadePredicadosFidel.pdb
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\obj\Debug\net8.0\LogicadePredicadosFidel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\obj\Debug\net8.0\LogicadePredicadosFidel.AssemblyInfoInputs.cache
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\obj\Debug\net8.0\LogicadePredicadosFidel.AssemblyInfo.cs
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\obj\Debug\net8.0\LogicadePredicadosFidel.csproj.CoreCompileInputs.cache
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\obj\Debug\net8.0\LogicadePredicadosFidel.dll
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\obj\Debug\net8.0\refint\LogicadePredicadosFidel.dll
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\obj\Debug\net8.0\LogicadePredicadosFidel.pdb
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\obj\Debug\net8.0\LogicadePredicadosFidel.genruntimeconfig.cache
+C:\Users\wmarroquin\source\repos\LogicadePredicadosFidel\LogicadePredicadosFidel\obj\Debug\net8.0\ref\LogicadePredicadosFidel.dll
